@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe6de83f-756f-4d3a-82a1-732fc72fd4fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/algebra-std_2.11-0.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/algebra-std_sjs0.6_2.11-0.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/algebra_2.11-0.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/algebra_sjs0.6_2.11-0.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-core_2.11-0.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-core_2.11-1.5.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-core_2.11-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-core_2.11-2.0.0-M1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-core_2.12-2.9.01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-core_2.13-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-core_2.13-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-core_sjs0.6_2.11-0.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-kernel_2.11-1.5.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-kernel_2.11-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-kernel_2.11-2.0.0-M1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-kernel_2.12-2.9.01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-kernel_2.13-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-kernel_2.13-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-macros_2.11-0.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-macros_2.11-1.5.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-macros_2.11-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-macros_2.11-2.0.0-M1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-macros_2.13-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cats-macros_sjs0.6_2.11-0.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-core_2.11-0.11.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-core_2.11-0.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-core_2.11-0.12.0-M1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-core_2.11-0.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-core_2.12-0.14.41.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-core_2.13-0.12.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-core_2.13-0.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-core_sjs0.6_2.11-0.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-generic_2.13-0.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-jawn_2.13-0.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-numbers_2.11-0.11.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-numbers_2.11-0.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-numbers_2.11-0.12.0-M1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-numbers_2.11-0.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-numbers_2.12-0.14.41.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-numbers_2.13-0.12.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-numbers_2.13-0.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/circe-parser_2.13-0.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-csv-1.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/export-hook_2.11-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-annotations-2.11.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-annotations-2.13.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.11.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.13.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-databind-2.11.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-databind-2.13.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-datatype-jdk8-2.11.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.11.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jawn-parser_2.13-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/joda-time-2.10.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/machinist_2.11-0.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/machinist_2.11-0.6.6-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/machinist_2.11-0.6.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/machinist_2.11-0.6.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/machinist_sjs0.6_2.11-0.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/macro-compat_2.11-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/macro-compat_2.11-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opencsv-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/play-functional_2.13-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/play-json_2.13-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.11.12-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.11.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.11.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.11.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.12.151.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-library-2.13.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-reflect-2.11.12-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-reflect-2.11.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-reflect-2.11.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scala-reflect-2.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/scalajs-library_2.11-0.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/shapeless_2.13-2.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/simulacrum-scalafix-annotations_2.13-0.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/simulacrum_2.11-0.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/simulacrum_sjs0.6_2.11-0.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/categoria.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/main.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ProyectoScala" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Lf4oE2kNm9InZgu2Uld63aLF9A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/ProyectoScala",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CsvToJson">
+    <configuration name="Category" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Category" />
+      <module name="ProyectoScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CirceExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CirceExample" />
+      <module name="ProyectoScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CsvToJson" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CsvToJson" />
+      <module name="ProyectoScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="ProyectoScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ProyectoScala" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CirceExample" />
+        <item itemvalue="Scala REPL.Scala REPL" />
+        <item itemvalue="Application.Category" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe6de83f-756f-4d3a-82a1-732fc72fd4fa" name="Changes" comment="" />
+      <created>1676248979524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676248979524</updated>
+      <workItem from="1676248981005" duration="226000" />
+      <workItem from="1676342809340" duration="4000" />
+      <workItem from="1676743172935" duration="2047000" />
+      <workItem from="1676754036558" duration="243000" />
+      <workItem from="1676769338794" duration="2586000" />
+      <workItem from="1676778297131" duration="6471000" />
+      <workItem from="1676846562712" duration="2826000" />
+      <workItem from="1676850665154" duration="8316000" />
+      <workItem from="1676866104152" duration="2821000" />
+      <workItem from="1677100980997" duration="2216000" />
+      <workItem from="1677427203098" duration="841000" />
+      <workItem from="1677428104185" duration="574000" />
+      <workItem from="1677435202367" duration="138000" />
+      <workItem from="1677435466113" duration="93000" />
+      <workItem from="1677435586552" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
