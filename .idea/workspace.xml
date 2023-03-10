@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe6de83f-756f-4d3a-82a1-732fc72fd4fa" name="Changes" comment="CsvToJson">
+    <list default="true" id="fe6de83f-756f-4d3a-82a1-732fc72fd4fa" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Prueba.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/categoria.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/categoria.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,16 +86,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CsvToJson">
-    <configuration name="Category" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Category" />
+  <component name="RunManager" selected="Application.CsvJson">
+    <configuration name="CirceExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CirceExample" />
       <module name="ProyectoScala" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CirceExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CirceExample" />
+    <configuration name="CsvJson" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CsvJson" />
       <module name="ProyectoScala" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,6 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CsvWithinJsonWithinJson" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CsvWithinJsonWithinJson" />
+      <module name="ProyectoScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="ProyectoScala" />
@@ -111,25 +122,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="Prueba" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Prueba" />
       <module name="ProyectoScala" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="javaOptions" value="-Djline.terminal=NONE" />
-      <option name="myConsoleArgs" value="" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="csvStringg" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="csvStringg" />
+      <module name="ProyectoScala" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CsvJson" />
+        <item itemvalue="Application.Prueba" />
+        <item itemvalue="Application.csvStringg" />
+        <item itemvalue="Application.CsvWithinJsonWithinJson" />
         <item itemvalue="Application.CirceExample" />
-        <item itemvalue="Scala REPL.Scala REPL" />
-        <item itemvalue="Application.Category" />
       </list>
     </recent_temporary>
   </component>
@@ -156,10 +169,46 @@
       <workItem from="1677435202367" duration="138000" />
       <workItem from="1677435466113" duration="93000" />
       <workItem from="1677435586552" duration="368000" />
+      <workItem from="1677651419340" duration="392000" />
+      <workItem from="1678427850393" duration="2017000" />
     </task>
+    <task id="LOCAL-00001" summary="CsvToJson">
+      <created>1677651496399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677651496399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CsvToJson" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="scala.MatchError" package="scala" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

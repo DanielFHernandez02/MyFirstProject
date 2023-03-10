@@ -7,8 +7,5 @@ lazy val root = (project in file("."))
     name := "ProyectoScala"
   )
 
-
 libraryDependencies += "io.circe" %% "circe-core" % "0.14.1"
-libraryDependencies += "io.circe" %% "circe-generic" % "0.14.1"
 libraryDependencies += "io.circe" %% "circe-parser" % "0.14.1"
-libraryDependencies += "com.opencsv" % "opencsv" % "5.5.2"
