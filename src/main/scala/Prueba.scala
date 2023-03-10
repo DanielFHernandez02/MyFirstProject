@@ -9,7 +9,6 @@ val rows = csvString.split("\n").toList
 val headers = rows.head.split(",").toList
 val data = rows.tail.map(_.split(",").toList).map(headers.zip(_).toMap)
 
-// convertir la lista de mapas a JSON
 val json = Json.fromValues(data.map(row => {
   Json.fromFields(row.map { case (k, v) => (k, Json.fromString(v)) })
 }))
