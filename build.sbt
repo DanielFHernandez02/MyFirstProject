@@ -9,3 +9,6 @@ lazy val root = (project in file("."))
 
 libraryDependencies += "io.circe" %% "circe-core" % "0.14.1"
 libraryDependencies += "io.circe" %% "circe-parser" % "0.14.1"
+libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.6.16"
+libraryDependencies += "com.typesafe.akka" %% "akka-http" % "10.2.6"
+libraryDependencies += "com.typesafe.akka" %% "akka-stream" % "2.6.16"

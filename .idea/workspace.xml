@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe6de83f-756f-4d3a-82a1-732fc72fd4fa" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Prueba.scala" afterDir="false" />
+    <list default="true" id="fe6de83f-756f-4d3a-82a1-732fc72fd4fa" name="Changes" comment="fileChanged">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/test/api/test.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/categoria.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/categoria.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +84,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CsvJson">
-    <configuration name="CirceExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CirceExample" />
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="API" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="API" />
       <module name="ProyectoScala" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,13 +106,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CsvWithinJsonWithinJson" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CsvWithinJsonWithinJson" />
-      <module name="ProyectoScala" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="ProyectoScala" />
@@ -129,6 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="ProyectoScala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="csvStringg" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="csvStringg" />
       <module name="ProyectoScala" />
@@ -138,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.API" />
         <item itemvalue="Application.CsvJson" />
         <item itemvalue="Application.Prueba" />
         <item itemvalue="Application.csvStringg" />
-        <item itemvalue="Application.CsvWithinJsonWithinJson" />
-        <item itemvalue="Application.CirceExample" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +168,8 @@
       <workItem from="1677435466113" duration="93000" />
       <workItem from="1677435586552" duration="368000" />
       <workItem from="1677651419340" duration="392000" />
-      <workItem from="1678427850393" duration="2017000" />
+      <workItem from="1678427850393" duration="2272000" />
+      <workItem from="1678564606323" duration="2773000" />
     </task>
     <task id="LOCAL-00001" summary="CsvToJson">
       <created>1677651496399</created>
@@ -179,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677651496399</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new file">
+      <created>1678429959668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678429959668</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fileChanged">
+      <created>1678430083343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678430083343</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +212,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CsvToJson" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="new file" />
+    <MESSAGE value="fileChanged" />
+    <option name="LAST_COMMIT_MESSAGE" value="fileChanged" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
